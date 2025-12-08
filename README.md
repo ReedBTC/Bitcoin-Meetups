@@ -183,6 +183,7 @@ There are also services who will build you a website; however, these are service
 
 | Title | Date | Source |
 |---|---|---|
+| [December 2025 Socratic Seminar](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?usp=sharing) | Dec 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Node Builder Workshop](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025) | Nov 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [November 2025 Socratic Seminar](https://docs.google.com/presentation/d/1FUC1JUDpqMbTzv3uqfhpcyaX5bc97-FL-SbYGxHNhoM/edit?usp=sharing) | Nov 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Bitcoin Fundamentals Security Cryptography](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf) | Oct 2025 | [757btc.org](https://757btc.org/) |
