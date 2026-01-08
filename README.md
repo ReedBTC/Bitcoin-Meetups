@@ -163,6 +163,8 @@ If you're looking for a budget website you can host a simple HTML website on Git
 
 There are also services who will build you a website; however, these are services you will need to pay for and vary significantly in price and quality. You can ask around on social media and will likely find other bitcoiners who would be willing to make you a website, but again, most will be looking for you to pay for their service. [Fiverr](https://www.fiverr.com/) is another option for finding resources who can build you a website on a budget. Consider working with AI to find a good option for you.
 
+Another option is to get a good domain name and simply forward it to your preferred event listing page such as your meetup.com page.
+
 ## **List of Example Bitcoin Meetup Websites**
 
 - [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/)
