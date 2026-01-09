@@ -113,9 +113,10 @@ Here are some recommendations for where to post your meetup events:
 - [Evento](https://evento.so/)
 - [Eventbrite](https://www.eventbrite.com/)
 - [Luma](https://luma.com/)
+- [Satlantis.io](https://www.satlantis.io/)
 - Your Meetup's Website
 - [Twitter (X)](https://x.com/)
-- [Nostr](https://primal.net/home)
+- Nostr (e.g., [Primal](https://primal.net/home), [Damus](https://damus.io/))
 
 Many bitcoin meetups also start their own Telegram or Signal groups where they will also send out reminders and notifications of new events or to communicate side events or other fun things that other people in the group want to get the word out about. Personally, I have found that sometimes people may be reluctant to download and/or enable notifications on ANOTHER app, so I also started to collect email addresses so I can send out reminders that way and more people (especially older members) are more likely to see it.
 
