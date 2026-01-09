@@ -109,11 +109,11 @@ Big picture, its actually kind of a pain to post your meetup in a bunch of diffe
 Here are some recommendations for where to post your meetup events:
 
 - [Meetup](https://www.meetup.com/)
-- [Orange Pill App](https://www.orangepillapp.com/)
+- [Club Orange](https://www.cluborange.org/)
 - [Evento](https://evento.so/)
 - [Eventbrite](https://www.eventbrite.com/)
 - [Luma](https://luma.com/)
-- [Satlantis.io](https://www.satlantis.io/)
+- [Satlantis](https://www.satlantis.io/)
 - Your Meetup's Website
 - [Twitter (X)](https://x.com/)
 - Nostr (e.g., [Primal](https://primal.net/home), [Damus](https://damus.io/))
