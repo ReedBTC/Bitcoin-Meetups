@@ -186,6 +186,7 @@ Another option is to get a good domain name and simply forward it to your prefer
 
 | Title | Date | Source |
 |---|---|---|
+| [January 2026 Socratic Seminar](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?usp=sharing) | Jan 2026 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [December 2025 Socratic Seminar](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?usp=sharing) | Dec 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Node Builder Workshop](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025) | Nov 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [November 2025 Socratic Seminar](https://docs.google.com/presentation/d/1FUC1JUDpqMbTzv3uqfhpcyaX5bc97-FL-SbYGxHNhoM/edit?usp=sharing) | Nov 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
