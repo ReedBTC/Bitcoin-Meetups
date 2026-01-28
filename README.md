@@ -179,6 +179,7 @@ Another option is to get a good domain name and simply forward it to your prefer
 - [San Antonio Bitcoin Club](https://www.sanantoniobitcoinclub.com/)
 - [Bitcoin Park](https://bitcoinpark.com/)
 - [Round Rock Bitcoiners](https://roundrockbitcoiners.com/)
+- [Mass Adoption](https://massadoption.net/)
 
 # **Repository for Meetup Content**
 
