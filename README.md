@@ -180,7 +180,7 @@ Another option is to get a good domain name and simply forward it to your prefer
 - [Bitcoin Park](https://bitcoinpark.com/)
 - [Round Rock Bitcoiners](https://roundrockbitcoiners.com/)
 - [Mass Adoption](https://massadoption.net/)
-- [601BTC Meetup](https://603btc.com/meetups/)
+- [603BTC Meetup](https://603btc.com/meetups/)
 
 # **Repository for Meetup Content**
 
