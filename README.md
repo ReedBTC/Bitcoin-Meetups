@@ -63,9 +63,9 @@ Running a bitcoin meetup can be a daunting undertaking and in many ways it is a 
 
 Running a bitcoin meetup can be as easy as posting a date, time and location of where you will be hanging out anyway! In that case your only real commitment is to show up! For meetup organizers just showing up, especially when you can do it consistently, gets you a good portion of the benefit of hosting your meetup!
 
-The best advice for bitcoin meetup organizers is to pick a day/time that works for you and to show up at that time consistently at whatever frequency you can fit into your life. Most meetups meet monthly, but some meet more or less frequently, depending on the meetup organizer and what level of commitment they feel comfortable with.
+The best advice for bitcoin meetup organizers is to pick a day/time that works for you and to show up at that time consistently at whatever frequency you can fit into your life. Most meetups meet monthly, but some meet more or less frequently, depending on the meetup organizer and what level of commitment they feel comfortable with. Also, once you get some regulars, see if you can recruit a co-organizer; this will decentralize your group a bit and help ensure the meetup outlasts its initial creator, but it also just makes it easier to fit running a meetup into general life. 
 
-As you start to give yourself more responsibility as a community leader, you will find what works for you, but it is important to remember why you are running the meetup, so keep your mission in mind as you continue on your meetup journey.
+As you start to give yourself more responsibility as a community leader, you will find what works for you, but it is important to remember why you are running the meetup, so keep your mission in mind as you continue on your meetup journey. 
 
 ## **Disclaimers and Risks**
 
@@ -137,9 +137,9 @@ At the end of the day, most meetup hosts will most likely agree that word of mou
 
 ### **_Social Meetups_**
 
-As discussed in the section on how to start a bitcoin meetup, finding a location for a social meetup, where it is just a group of people who come to hang out and talk about whatever is on their mind, finding a venue is pretty easy. Just find a public social setting like a bar, coffee shop, library, or any other space that will allow people to meet up just to talk.
+As discussed in the section on how to start a bitcoin meetup, finding a location for a social meetup, where it is just a group of people who come to hang out and talk about whatever is on their mind, finding a venue is pretty easy. Just find a public social setting like a bar, coffee shop, library, or any other space that will allow people to meet up just to talk. 
 
-As your meetup grows, you might find that some of these spaces get too crowded for your meetup to be inclusive and function properly, so you might look for a place that has a back or side room that you can either reserve or that is often not crowded that you can just kind of take over during your meetup.
+As your meetup grows, you might find that some of these spaces get too crowded for your meetup to be inclusive and function properly, so you might look for a place that has a back or side room that you can either reserve or that is often not crowded that you can just kind of take over during your meetup. If you want a location that accepts bitcoin, check out [BTC Maps](https://btcmap.org/) to see if there is a potential venue in your area that accepts bitcoin. 
 
 ### **_Educational Meetups_**
 
@@ -188,6 +188,7 @@ Another option is to get a good domain name and simply forward it to your prefer
 
 | Title | Date | Source |
 |---|---|---|
+| [February 2026 Socratic Seminar](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?usp=sharing) | Feb 2026 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [January 2026 Socratic Seminar](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?usp=sharing) | Jan 2026 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [December 2025 Socratic Seminar](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?usp=sharing) | Dec 2025 | [Western Mass Bitcoin Meetup](westernmassbitcoin.com) |
 | [Node Builder Workshop](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025) | Nov 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
