@@ -46,3 +46,4 @@ See [form1023.org](https://www.form1023.org/) for help and instructions for sett
 
 *Submitted by meetup organizers — [add yours via GitHub Issues](https://github.com/ReedBTC/Bitcoin-Meetups/issues/new)*
 
+- It doesn't hurt to put a call out asking for a sponsor for your meetup. It doesn't have to be a big sponsorship...$50 goes a long way.
