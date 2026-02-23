@@ -38,8 +38,9 @@ Most meetups do not advertise outside of simply posting them to any number of th
 - A box of business cards is actually quite cheap ~\$20 and you can put a QR code on them that links to your website, social media, meetup page or similar where they will be able to find where you post your upcoming meetups
 - Start a social media account for your meetup and post announcements, reminders and photos or other media from past events
 - There are several bitcoin podcasts that will read out boosts from podcasting 2.0 apps such as fountain or during live streams
-  - [Rabbit Hole Recap](https://www.fountain.fm/show/VDaMppQRUBZioj2XkaLn) (21,000 sat minimum for a shoutout)
+  - [Local Bitcoiners](https://fountain.fm/show/Q48WBr6nT3mrbwMZ8ydY)
   - [Bitcoin And…](https://www.fountain.fm/show/eK5XaSb3UaLRavU3lYrI)
+  - [Rabbit Hole Recap](https://www.fountain.fm/show/VDaMppQRUBZioj2XkaLn) 
 
 At the end of the day, most meetup hosts will most likely agree that word of mouth is by far the biggest way that new members join. So, remind your meetup group to invite their friends, family and coworkers to attend, and make sure that your meetup is friendly and welcoming to newcomers, regardless of where they are on their bitcoin rabbit hole adventure.
 
