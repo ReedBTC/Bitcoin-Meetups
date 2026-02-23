@@ -46,5 +46,3 @@ See [form1023.org](https://www.form1023.org/) for help and instructions for sett
 
 *Submitted by meetup organizers — [add yours via GitHub Issues](https://github.com/ReedBTC/Bitcoin-Meetups/issues/new)*
 
-- Give out swag. Stickers are cheap and easy — brand your meetup with a cool name and logo and print them up. Also keep an eye out for companies in the bitcoin space that offer goodies for meetup hosts; free magazines, trading cards, and other items have all been available at various times. People really appreciate a freebie.
-- Build a relationship with your venue early. When you're ready to host more formal events, having an established relationship with the restaurant or venue can get you a good deal on a function room — or sometimes even the space for free.
