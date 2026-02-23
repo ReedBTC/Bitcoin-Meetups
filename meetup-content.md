@@ -7,8 +7,11 @@
 | Title | Date | Source |
 |---|---|---|
 | [February 2026 Socratic Seminar](https://docs.google.com/presentation/d/1YKiL42TVMacMkkKqJbdg0XbNSWPBbU7QJgUggBM19Ww/edit?usp=sharing) | Feb 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
+| [January 2026 Socratic Seminar](https://docs.google.com/presentation/d/16cCbevm-E4bFNvv4J_XHXfIo6JD-YsorjXtfoLrCNXQ/edit?slide=id.g3b6165eb2be_0_220#slide=id.g3b6165eb2be_0_220) | Jan 2026 | [Jersey City Bitcoin](https://jerseycitybitcoin.com/) |
 | [January 2026 Socratic Seminar](https://docs.google.com/presentation/d/1Wp_hWnklpnjTPBdty4yCY9LEcx63E1DP4Z4Z9uIvKKQ/edit?usp=sharing) | Jan 2026 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
+| [December 2025 Socratic Seminar](https://docs.google.com/presentation/d/1NzXPWR3A5ONu9kxXV8aWEqrtEkWz1CNIUwGv0KJITEA/edit?slide=id.g3b178d7d150_0_160#slide=id.g3b178d7d150_0_160) | Dec 2025 | [Jersey City Bitcoin](https://jerseycitybitcoin.com/) |
 | [December 2025 Socratic Seminar](https://docs.google.com/presentation/d/16Bxl_zG29SYH5OSa_UfNg7HkaNwnU_MNA5UoLzHjem4/edit?usp=sharing) | Dec 2025 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
+| [November 2025 Socratic Seminar](https://docs.google.com/presentation/d/1DJvvMKP--ObXsMeuSSqnvf5Q6Udt4C8C/edit?slide=id.p1#slide=id.p1) | Nov 2025 | [Jersey City Bitcoin](https://jerseycitybitcoin.com/) |
 | [Node Builder Workshop](https://speakerdeck.com/rrbtc/node-builder-workshop-13-nov-2025) | Nov 2025 | [Round Rock Bitcoiners](https://roundrockbitcoiners.com/) |
 | [November 2025 Socratic Seminar](https://docs.google.com/presentation/d/1FUC1JUDpqMbTzv3uqfhpcyaX5bc97-FL-SbYGxHNhoM/edit?usp=sharing) | Nov 2025 | [Western Mass Bitcoin Meetup](https://westernmassbitcoin.com/) |
 | [Bitcoin Fundamentals Security Cryptography](https://757btc.org/assets/education/ES_BitcoinSecurity101.pdf) | Oct 2025 | [757btc.org](https://757btc.org/) |
